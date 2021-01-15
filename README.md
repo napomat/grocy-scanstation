@@ -7,3 +7,8 @@ Es muss eine auth.js Datei erstellt werden mit dem die URL des Grocy Servers und
 
 ## Todo: 
 - Scanvorgänge in IndexDB ablegen.
+
+
+## Sample
+
+![Alt text](sample.png?raw=true "Sample of Website")
